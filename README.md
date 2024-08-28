@@ -1,5 +1,5 @@
 # vaccine-schedueler
-Project for Introduction to Database Systems course at the Paul G. Allen School of Computer Science & Engineering at the University of Washington.
+Course project for "Introduction to Database Systems" course at the Paul G. Allen School of Computer Science & Engineering at the University of Washington.
 ## Commands
 ### create_patient <username> <password>
 Creates a patient object that takes in fields of username and password.
