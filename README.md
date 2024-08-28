@@ -24,3 +24,4 @@ Output the scheduled appointments for the current user. For caregivers, it print
 ### logout
 Logs out current user. If not logged in, system prints “Please login first”. Otherwise, systems prints “Successfully logged out”. For all other errors, system prints "Please try again".
 ### quit
+Quits the program.
